@@ -1,0 +1,10 @@
+[package]
+name = "sshrs"
+version = "0.1.0"
+authors = ["nmavis <nmavis@cisco.com>"]
+edition = "2018"
+
+[dependencies]
+failure = "^0.1.6"
+ssh2 = "^0.5.0"
+
