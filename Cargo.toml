@@ -6,7 +6,7 @@ description = "Wrapper for ssh2 bindings library. Easy SSH"
 edition = "2018"
 repository = "https://github.com/xentrick/sshrs"
 keywords = ["ssh"]
-license = "mit"
+license = "MIT"
 
 [dependencies]
 failure = "^0.1.6"
