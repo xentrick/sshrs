@@ -1,8 +1,11 @@
 [package]
 name = "sshrs"
 version = "0.1.0"
-authors = ["nmavis <nmavis@cisco.com>"]
+authors = ["Nick Mavis <itsnick@gmail.com>"]
+description = "Wrapper for ssh2 bindings library. Easy SSH"
 edition = "2018"
+repository = "https://github.com/xentrick/sshrs"
+keywords = ["ssh"]
 
 [dependencies]
 failure = "^0.1.6"
